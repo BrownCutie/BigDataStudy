@@ -1,0 +1,31 @@
+post_id,title,author,category,visits,likes,comments,publish_date,tags,status
+1,Spark 3.5.8核心概念详解,张三,大数据,4520,210,35,2024-01-15,"spark,大数据,分布式",published
+2,Spark SQL入门到精通,张三,大数据,3890,185,42,2024-02-20,"spark,sql,hive",published
+3,Hadoop HDFS架构深度解析,李四,大数据,2750,92,18,2024-01-28,"hadoop,hdfs,分布式",published
+4,Hive数据仓库实战指南,李四,数据仓库,1850,65,12,2024-03-10,"hive,数据仓库,sql",published
+5,Flink流处理框架入门,王五,流计算,3210,145,28,2024-04-05,"flink,流计算,实时",published
+6,Kafka消息队列最佳实践,王五,中间件,2340,88,15,2024-05-18,"kafka,消息队列,中间件",published
+7,Python数据分析从零开始,赵六,数据分析,1680,72,20,2024-06-22,"python,数据分析,pandas",published
+8,Spark性能调优实战经验,张三,大数据,5670,320,55,2024-07-30,"spark,调优,性能",published
+9,Docker容器化部署指南,赵六,运维,1450,58,10,2024-08-12,"docker,运维,容器",published
+10,Kubernetes生产环境部署,王五,运维,2980,130,25,2024-09-01,"k8s,运维,容器",published
+11,Spark MLlib机器学习入门,张三,机器学习,2150,95,18,2024-10-15,"spark,ml,机器学习",published
+12,HBase NoSQL数据库详解,李四,NoSQL,980,35,8,2024-11-20,"hbase,nosql,数据库",published
+13,Spark Streaming实时数据处理,张三,流计算,2680,110,22,2024-03-25,"spark,流处理,实时",published
+14,ElasticSearch全文检索实战,钱七,搜索引擎,1920,82,16,2024-04-18,"es,搜索,全文检索",published
+15,Redis缓存架构设计,钱七,中间件,2230,105,19,2024-05-10,"redis,缓存,架构",published
+16,数据湖Iceberg入门教程,李四,数据湖,1760,68,14,2024-06-05,"iceberg,数据湖,表格式",published
+17,Spark RDD编程深入理解,张三,大数据,1340,55,10,2024-02-08,"spark,rdd,底层",published
+18,Airflow工作流调度实践,王五,运维,2050,90,17,2024-07-15,"airflow,调度,运维",published
+19,数据质量治理方法论,赵六,数据治理,890,38,7,2024-08-28,"数据质量,治理,规范",published
+20,ClickHouse高性能分析,钱七,OLAP,3150,142,30,2024-09-20,"clickhouse,olap,分析",published
+21,PySpark数据分析完整案例,张三,大数据,4280,198,38,2024-10-08,"pyspark,spark,python",published
+22,Hadoop MapReduce原理剖析,李四,大数据,1120,42,8,2024-11-05,"hadoop,mapreduce,分布式",published
+23,Apache Paimon流式数仓,王五,数据湖,1560,62,11,2024-12-01,"paimon,数据湖,流式",published
+24,Spark与Hive集成部署方案,张三,大数据,2340,98,20,2024-04-12,"spark,hive,集成",published
+25,Grafana监控告警配置,赵六,运维,780,32,5,2024-05-22,"grafana,监控,告警",published
+26,MinIO对象存储搭建,钱七,存储,1650,70,13,2024-06-18,"minio,对象存储,s3",published
+27,数据血缘追踪工具对比,赵六,数据治理,1230,48,9,2024-07-08,"数据血缘,元数据,治理",published
+28,Spark Delta Lake数据湖方案,张三,数据湖,2890,125,24,2024-08-15,"spark,delta,数据湖",published
+29,DolphinScheduler任务调度,王五,运维,1870,78,15,2024-09-28,"dolphinscheduler,调度,运维",published
+30,实时数仓架构设计思路,李四,数据仓库,3420,155,32,2024-10-22,"实时数仓,架构,数据仓库",published

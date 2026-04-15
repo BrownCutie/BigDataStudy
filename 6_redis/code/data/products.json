@@ -1,0 +1,92 @@
+{
+    "articles": [
+        {
+            "id": "1001",
+            "title": "Redis 入门教程：从零开始学内存数据库",
+            "author": "browncutie",
+            "content": "Redis 是一个开源的、基于内存的键值对存储系统。它支持多种数据结构，包括 String、Hash、List、Set、ZSet 等。Redis 以其极高的性能（单机 10 万+ QPS）和丰富的功能，成为互联网技术栈中不可或缺的组件。本文将从基础概念出发，带你全面了解 Redis 的核心特性和最佳实践。",
+            "category": "大数据",
+            "tags": ["Redis", "缓存", "内存数据库", "NoSQL"],
+            "status": "published",
+            "created_at": "2024-03-15 10:30:00",
+            "updated_at": "2024-03-15 10:30:00"
+        },
+        {
+            "id": "1002",
+            "title": "Spark 实战指南：大规模数据处理入门",
+            "author": "browncutie",
+            "content": "Apache Spark 是一个快速、通用、可扩展的大数据分析引擎。它提供了 Java、Scala、Python 和 R 的高级 API，以及支持通用执行图的优化引擎。Spark 支持批处理、流处理、机器学习和图计算等多种工作负载。本文将介绍 Spark 的核心概念、RDD/DataFrame API 以及实战案例。",
+            "category": "大数据",
+            "tags": ["Spark", "大数据", "分布式计算", "RDD"],
+            "status": "published",
+            "created_at": "2024-03-20 14:00:00",
+            "updated_at": "2024-03-20 14:00:00"
+        },
+        {
+            "id": "1003",
+            "title": "Kafka 深度解析：分布式消息队列原理与实践",
+            "author": "browncutie",
+            "content": "Apache Kafka 是一个分布式流处理平台，最初由 LinkedIn 开发，现为 Apache 顶级项目。Kafka 以高吞吐量、低延迟和持久化的特点，成为大数据领域消息队列的首选方案。本文深入解析 Kafka 的架构设计、存储原理、消费者模型以及生产环境的最佳实践。",
+            "category": "消息队列",
+            "tags": ["Kafka", "消息队列", "流处理", "分布式"],
+            "status": "published",
+            "created_at": "2024-04-01 09:00:00",
+            "updated_at": "2024-04-01 09:00:00"
+        },
+        {
+            "id": "1004",
+            "title": "Elasticsearch 全文搜索实战：打造数据搜索引擎",
+            "author": "browncutie",
+            "content": "Elasticsearch 是一个基于 Apache Lucene 构建的分布式全文搜索和分析引擎。它支持近实时的搜索、复杂的聚合分析以及强大的中文分词能力。本文将介绍如何使用 Elasticsearch 为数据平台构建高效的全文搜索功能，包括索引设计、中文分词配置和搜索优化。",
+            "category": "搜索引擎",
+            "tags": ["Elasticsearch", "搜索", "全文检索", "倒排索引"],
+            "status": "published",
+            "created_at": "2024-04-10 16:00:00",
+            "updated_at": "2024-04-10 16:00:00"
+        },
+        {
+            "id": "1005",
+            "title": "Flink 实时计算入门：流式数据处理框架详解",
+            "author": "browncutie",
+            "content": "Apache Flink 是一个开源的流式计算框架，支持有界和无界数据流上的有状态计算。Flink 提供了精确一次（exactly-once）的语义保证，支持事件时间和处理时间的窗口计算，以及强大的状态管理机制。本文将介绍 Flink 的核心概念、DataStream API 以及在实时数据处理中的应用场景。",
+            "category": "大数据",
+            "tags": ["Flink", "实时计算", "流处理", "状态管理"],
+            "status": "published",
+            "created_at": "2024-04-20 11:00:00",
+            "updated_at": "2024-04-20 11:00:00"
+        },
+        {
+            "id": "1006",
+            "title": "MinIO 对象存储实战：搭建私有云存储服务",
+            "author": "browncutie",
+            "content": "MinIO 是一个高性能的、兼容 Amazon S3 API 的开源对象存储服务器。它特别适合存储非结构化数据，如图片、视频、日志文件和备份数据。本文将介绍 MinIO 的核心概念、安装配置、以及在数据分析项目中存储图片和附件的实战案例。",
+            "category": "存储",
+            "tags": ["MinIO", "对象存储", "S3", "云存储"],
+            "status": "published",
+            "created_at": "2024-05-05 08:00:00",
+            "updated_at": "2024-05-05 08:00:00"
+        },
+        {
+            "id": "1007",
+            "title": "DolphinScheduler 工作流调度：大数据任务编排指南",
+            "author": "browncutie",
+            "content": "Apache DolphinScheduler 是一个可视化的分布式大数据工作流调度平台，致力于解决大数据生态中复杂任务依赖关系的调度问题。它支持多种任务类型，包括 Shell、SQL、Spark、Flink 等，并提供可视化 DAG 编辑器和完善的服务治理能力。本文将介绍 DolphinScheduler 的核心架构和使用方法。",
+            "category": "调度",
+            "tags": ["DolphinScheduler", "调度", "工作流", "DAG"],
+            "status": "draft",
+            "created_at": "2024-05-15 13:00:00",
+            "updated_at": "2024-05-15 13:00:00"
+        },
+        {
+            "id": "1008",
+            "title": "Hive 数据仓库实践：从 ETL 到数据分析",
+            "author": "browncutie",
+            "content": "Apache Hive 是建立在 Hadoop 之上的数据仓库基础设施，提供类 SQL 的查询语言 HiveQL，用于对存储在分布式文件系统中的大数据集进行查询和分析。本文将介绍 Hive 的核心概念、表设计、分区优化以及常见的 ETL 实践。",
+            "category": "大数据",
+            "tags": ["Hive", "数据仓库", "ETL", "Hadoop"],
+            "status": "published",
+            "created_at": "2024-05-25 10:00:00",
+            "updated_at": "2024-05-25 10:00:00"
+        }
+    ]
+}

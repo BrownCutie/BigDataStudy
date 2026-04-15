@@ -1,0 +1,57 @@
+大数据技术是现代互联网公司的核心技术之一
+大数据技术包括 Hadoop、Spark、Flink 等分布式计算框架
+Hadoop 是大数据领域最经典的分布式计算框架
+Hadoop 由 HDFS、YARN、MapReduce 三个核心组件组成
+HDFS 是 Hadoop 的分布式文件系统，负责数据存储
+YARN 是 Hadoop 的资源调度框架，负责集群资源管理
+MapReduce 是 Hadoop 的分布式计算模型，负责数据处理
+
+HDFS 采用主从架构，NameNode 是主节点，DataNode 是从节点
+HDFS 通过数据副本机制保证数据的可靠性
+HDFS 默认副本数为 3，即每个数据块存储 3 份
+HDFS 适合存储大文件，不适合存储大量小文件
+
+YARN 的 ResourceManager 负责全局资源调度
+YARN 的 NodeManager 负责单个节点的资源管理
+YARN 支持多种调度器：FIFO、Capacity、Fair 调度器
+
+MapReduce 将计算任务分为 Map 阶段和 Reduce 阶段
+Map 阶段负责数据的分片和并行处理
+Reduce 阶段负责对 Map 阶段的输出进行汇总和聚合
+Shuffle 是 MapReduce 的核心过程，负责数据在 Map 和 Reduce 之间的传输
+
+Spark 基于内存计算，比 MapReduce 更快
+Spark 支持 SQL、Streaming、MLlib、GraphX 等多种计算模式
+Flink 是新一代流式计算框架，支持实时数据处理
+Flink 的 DataStream API 提供了丰富的流处理操作
+
+Kafka 是分布式消息队列系统，用于实时数据管道
+Kafka 支持高吞吐量的消息发布和订阅
+Kafka 常与 Flink、Spark Streaming 配合使用
+Kafka 的 Topic 可以分为多个 Partition 实现并行处理
+
+Hive 是基于 Hadoop 的数据仓库工具
+Hive 使用 HiveQL（类似 SQL）进行数据查询
+Hive 将 SQL 语句转换为 MapReduce 或 Spark 任务执行
+Hive 支持分区表和分桶表，优化查询性能
+
+Elasticsearch 是分布式搜索引擎
+Elasticsearch 支持全文检索、结构化搜索和数据分析
+Elasticsearch 常用于日志分析和搜索引擎场景
+Elasticsearch 与 Kibana 配合实现数据可视化
+
+数据湖是大数据存储和分析的新趋势
+数据湖支持存储结构化数据、半结构化数据和非结构化数据
+数据湖使用 Apache Iceberg 等表格式管理元数据
+数据湖相比传统数据仓库更加灵活和高效
+
+Hadoop 生态系统非常庞大
+Hadoop 的核心思想是分布式存储和分布式计算
+学习 Hadoop 是学习大数据技术的第一步
+Hadoop 在业界有着广泛的应用
+
+大数据 数据 处理 存储 计算 分布式 框架 节点 集群 调度
+Hadoop HDFS YARN MapReduce Spark Flink Kafka Hive
+大数据 数据 处理 存储 计算 分布式 框架 节点 集群 调度
+Hadoop HDFS YARN MapReduce Spark Flink Kafka Hive
+大数据 数据 处理 存储 计算 分布式 框架 节点 集群 调度

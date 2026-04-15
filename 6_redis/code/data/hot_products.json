@@ -1,0 +1,76 @@
+{
+    "hot_articles": [
+        {
+            "article_id": "1001",
+            "title": "Redis 入门教程：从零开始学内存数据库",
+            "views": 9520,
+            "likes": 342,
+            "comments": 89,
+            "collects": 156,
+            "heat_score": 9520
+        },
+        {
+            "article_id": "1003",
+            "title": "Kafka 深度解析：分布式消息队列原理与实践",
+            "views": 8300,
+            "likes": 298,
+            "comments": 76,
+            "collects": 134,
+            "heat_score": 8300
+        },
+        {
+            "article_id": "1002",
+            "title": "Spark 实战指南：大规模数据处理入门",
+            "views": 7100,
+            "likes": 256,
+            "comments": 63,
+            "collects": 112,
+            "heat_score": 7100
+        },
+        {
+            "article_id": "1004",
+            "title": "Elasticsearch 全文搜索实战：打造数据搜索引擎",
+            "views": 5800,
+            "likes": 210,
+            "comments": 52,
+            "collects": 98,
+            "heat_score": 5800
+        },
+        {
+            "article_id": "1005",
+            "title": "Flink 实时计算入门：流式数据处理框架详解",
+            "views": 4200,
+            "likes": 178,
+            "comments": 41,
+            "collects": 76,
+            "heat_score": 4200
+        },
+        {
+            "article_id": "1006",
+            "title": "MinIO 对象存储实战：搭建私有云存储服务",
+            "views": 3100,
+            "likes": 125,
+            "comments": 28,
+            "collects": 56,
+            "heat_score": 3100
+        },
+        {
+            "article_id": "1008",
+            "title": "Hive 数据仓库实践：从 ETL 到数据分析",
+            "views": 2400,
+            "likes": 98,
+            "comments": 22,
+            "collects": 43,
+            "heat_score": 2400
+        },
+        {
+            "article_id": "1007",
+            "title": "DolphinScheduler 工作流调度：大数据任务编排指南",
+            "views": 1800,
+            "likes": 72,
+            "comments": 15,
+            "collects": 31,
+            "heat_score": 1800
+        }
+    ]
+}
